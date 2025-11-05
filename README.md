@@ -1,1 +1,1 @@
-# Assignment---Binary-digits
+This repository contains my submission for a QA task.
